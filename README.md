@@ -1,4 +1,4 @@
-# my-books
+# Books
 
 Welcome to my books. Here's my collection:
 
